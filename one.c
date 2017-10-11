@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
+
+printf("git stash is working");
 int a;
   int b;
 int c;
